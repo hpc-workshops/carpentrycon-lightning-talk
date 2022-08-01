@@ -6,8 +6,9 @@ and the work we are planning. A pre-recording will be streamed during
 the three [Community and More][comm] panels, with live Q&A following
 the screening of all five lightning talks comprising the session.
 
-To view the slides, please open [hpc-carpentry.html](hpc-carpentry.html)
-in your browser; press "P" to toggle presenter mode.
+The slides are rendered by GitHub Pages at
+[hpc-workshops.github.io/carpentrycon-lightning-talk][slides].
+Press "P" to toggle presenter mode.
 
 This presentation was written and recorded by Trevor Keller on behalf of the
 HPC Carpentry community. The members involved in CarpentryCon'22 session
@@ -69,3 +70,4 @@ Please cite this talk as follows:
 [cc22]:  https://2022.carpentrycon.org
 [comm]:  https://pad.carpentries.org/cc2022-community-and-more
 [rmrk]:  https://github.com/gnab/remark
+[slides]: https://hpc-workshops.github.io/carpentrycon-lightning-talk/
